@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @begohellas
-- 👀 I’m interested in .Net and C#
-- 🌱 I’m currently learning Azure
+- 👀 I’m interested in .NET, C# and cloud
+- 🌱 I’m currently learning Azure services
 
 <!---
 begohellas/begohellas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
