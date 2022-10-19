@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @begohellas
 - 👩‍💻 I'm currently working on .NET, C# and Azure cloud
 - 🧠 I’m currently learning Azure services for developer
+- ✨ I'm Azure Cosmos DB Developer Specialty (certified DP-420)
 
 ## 🛠 Skills
 .NET Framework, .NET 6, C#, Sql Server, Azure Sql Server, Message Broker (RabbitMq, Azure Service Bus), Azure Devops, Azure Cosmos DB
