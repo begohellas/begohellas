@@ -4,7 +4,7 @@
 - ✨ I'm Azure Cosmos DB Developer Specialty (certified DP-420)
 
 ## 🛠 Skills
-.NET 6, C#, Sql Server, Azure Sql Server, Message Broker (RabbitMq, Azure Service Bus), Azure Devops, Azure Cosmos DB, Microsoft identity platform, Azure Key Vault. 
+.NET 6-7, C#, Sql Server, Azure Sql Server, Message Broker (RabbitMq, Azure Service Bus), Azure Devops, Azure Cosmos DB, Microsoft identity platform, Azure Key Vault, Azure App Configuration, Azure functions. 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/andrea-beghini-14968227)
