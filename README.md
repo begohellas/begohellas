@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @begohellas
 - 👩‍💻 I'm currently working on .NET, C# and Azure cloud
-- 🧠 I’m currently learning Azure services for developer
+- 🧠 I’m currently learning Azure services for developers
 - ✨ I'm Azure Cosmos DB Developer Specialty (certified DP-420)
 
 ## 🛠 Skills
-.NET 6-7-8, C#, Sql Server, Azure Sql Server, RabbitMq, Azure Service Bus, Azure Devops, Azure Cosmos DB, Microsoft identity platform, Azure Key Vault, Azure App Configuration, Azure functions, Microsoft Graph. 
+.NET 8, C#, Sql Server/Azure Sql Server, Azure Cosmos DB, Azure Storage, Azure Service Bus,  Azure Key Vault, Azure App Configuration, Azure Functions, Microsoft Identity Platform, Microsoft Graph.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/andrea-beghini-14968227)
